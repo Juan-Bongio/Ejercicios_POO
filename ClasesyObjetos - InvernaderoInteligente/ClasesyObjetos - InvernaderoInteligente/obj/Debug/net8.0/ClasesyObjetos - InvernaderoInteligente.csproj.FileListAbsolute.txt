@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\bin\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.exe
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\bin\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.deps.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\bin\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.runtimeconfig.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\bin\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\bin\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\refint\ClasesyObjetos - InvernaderoInteligente.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ClasesyObjetos - InvernaderoInteligente.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - InvernaderoInteligente\ClasesyObjetos - InvernaderoInteligente\obj\Debug\net8.0\ref\ClasesyObjetos - InvernaderoInteligente.dll

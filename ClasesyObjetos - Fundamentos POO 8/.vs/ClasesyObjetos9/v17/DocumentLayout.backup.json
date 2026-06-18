@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB256775-D6A2-494A-8C17-439FA29B7F8C}|ClasesyObjetos9\\ClasesyObjetos9.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos9\\clasesyobjetos9\\perfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB256775-D6A2-494A-8C17-439FA29B7F8C}|ClasesyObjetos9\\ClasesyObjetos9.csproj|solutionrelative:clasesyobjetos9\\perfil_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB256775-D6A2-494A-8C17-439FA29B7F8C}|ClasesyObjetos9\\ClasesyObjetos9.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos9\\clasesyobjetos9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB256775-D6A2-494A-8C17-439FA29B7F8C}|ClasesyObjetos9\\ClasesyObjetos9.csproj|solutionrelative:clasesyobjetos9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos9\\ClasesyObjetos9\\Perfil_Usuario.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos9\\Perfil_Usuario.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos9\\ClasesyObjetos9\\Perfil_Usuario.cs",
+              "RelativeToolTip": "ClasesyObjetos9\\Perfil_Usuario.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:36:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos9\\ClasesyObjetos9\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos9\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos9\\ClasesyObjetos9\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:36:09.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

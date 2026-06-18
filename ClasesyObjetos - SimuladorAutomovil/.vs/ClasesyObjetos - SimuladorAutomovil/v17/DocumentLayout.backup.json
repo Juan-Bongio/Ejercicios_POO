@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - SimuladorAutomovil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99F53C1-BBBA-4E1C-AE82-6D02D4FE67A3}|ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - simuladorautomovil\\clasesyobjetos - simuladorautomovil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99F53C1-BBBA-4E1C-AE82-6D02D4FE67A3}|ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil.csproj|solutionrelative:clasesyobjetos - simuladorautomovil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99F53C1-BBBA-4E1C-AE82-6D02D4FE67A3}|ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - simuladorautomovil\\clasesyobjetos - simuladorautomovil\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99F53C1-BBBA-4E1C-AE82-6D02D4FE67A3}|ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil.csproj|solutionrelative:clasesyobjetos - simuladorautomovil\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil\\Automovil.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - SimuladorAutomovil\\Automovil.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil\\Automovil.cs",
+              "RelativeToolTip": "ClasesyObjetos - SimuladorAutomovil\\Automovil.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowIEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:19:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - SimuladorAutomovil\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - SimuladorAutomovil\\ClasesyObjetos - SimuladorAutomovil\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos - SimuladorAutomovil\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:19:13.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

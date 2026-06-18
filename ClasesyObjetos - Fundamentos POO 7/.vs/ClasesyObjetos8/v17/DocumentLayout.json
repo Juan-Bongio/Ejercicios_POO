@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DBE5BF-29CD-4A76-9473-C0D1BA96A578}|ClasesyObjetos8\\ClasesyObjetos8.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos8\\clasesyobjetos8\\triangulo_prohibido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DBE5BF-29CD-4A76-9473-C0D1BA96A578}|ClasesyObjetos8\\ClasesyObjetos8.csproj|solutionrelative:clasesyobjetos8\\triangulo_prohibido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DBE5BF-29CD-4A76-9473-C0D1BA96A578}|ClasesyObjetos8\\ClasesyObjetos8.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos8\\clasesyobjetos8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DBE5BF-29CD-4A76-9473-C0D1BA96A578}|ClasesyObjetos8\\ClasesyObjetos8.csproj|solutionrelative:clasesyobjetos8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo_Prohibido.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos8\\ClasesyObjetos8\\Triangulo_Prohibido.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos8\\Triangulo_Prohibido.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos8\\ClasesyObjetos8\\Triangulo_Prohibido.cs",
+              "RelativeToolTip": "ClasesyObjetos8\\Triangulo_Prohibido.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:33:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos8\\ClasesyObjetos8\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos8\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos8\\ClasesyObjetos8\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:32:14.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

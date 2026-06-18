@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\bin\Debug\net8.0\ClasesyObjetos7.exe
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\bin\Debug\net8.0\ClasesyObjetos7.deps.json
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\bin\Debug\net8.0\ClasesyObjetos7.runtimeconfig.json
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\bin\Debug\net8.0\ClasesyObjetos7.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\bin\Debug\net8.0\ClasesyObjetos7.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\refint\ClasesyObjetos7.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ClasesyObjetos7.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos7\ClasesyObjetos7\obj\Debug\net8.0\ref\ClasesyObjetos7.dll
