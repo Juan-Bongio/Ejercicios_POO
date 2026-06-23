@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\bin\Debug\net8.0\ClasePractica2-PowerGrid.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\bin\Debug\net8.0\ClasePractica2-PowerGrid.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\bin\Debug\net8.0\ClasePractica2-PowerGrid.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\bin\Debug\net8.0\ClasePractica2-PowerGrid.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\bin\Debug\net8.0\ClasePractica2-PowerGrid.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\refint\ClasePractica2-PowerGrid.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ClasePractica2-PowerGrid.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-PowerGrid\ClasePractica2-PowerGrid\obj\Debug\net8.0\ref\ClasePractica2-PowerGrid.dll

@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\bin\Debug\net8.0\ClasePractica-GrimorioMágico.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\bin\Debug\net8.0\ClasePractica-GrimorioMágico.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\bin\Debug\net8.0\ClasePractica-GrimorioMágico.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\bin\Debug\net8.0\ClasePractica-GrimorioMágico.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\bin\Debug\net8.0\ClasePractica-GrimorioMágico.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\refint\ClasePractica-GrimorioMágico.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ClasePractica-GrimorioMágico.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-GrimorioMágico\ClasePractica-GrimorioMágico\obj\Debug\net8.0\ref\ClasePractica-GrimorioMágico.dll

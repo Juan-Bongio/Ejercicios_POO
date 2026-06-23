@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-aerocheck\\clasepractica2-aerocheck\\helicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|solutionrelative:clasepractica2-aerocheck\\helicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-aerocheck\\clasepractica2-aerocheck\\avioncomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|solutionrelative:clasepractica2-aerocheck\\avioncomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-aerocheck\\clasepractica2-aerocheck\\aeronave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|solutionrelative:clasepractica2-aerocheck\\aeronave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-aerocheck\\clasepractica2-aerocheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83BD036-34FA-4F90-BE43-17AE530349CD}|ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck.csproj|solutionrelative:clasepractica2-aerocheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helicoptero.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Helicoptero.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-AeroCheck\\Helicoptero.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Helicoptero.cs",
+              "RelativeToolTip": "ClasePractica2-AeroCheck\\Helicoptero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:35:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvionComercial.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\AvionComercial.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-AeroCheck\\AvionComercial.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\AvionComercial.cs",
+              "RelativeToolTip": "ClasePractica2-AeroCheck\\AvionComercial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:35:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aeronave.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Aeronave.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-AeroCheck\\Aeronave.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Aeronave.cs",
+              "RelativeToolTip": "ClasePractica2-AeroCheck\\Aeronave.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:34:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-AeroCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-AeroCheck\\ClasePractica2-AeroCheck\\Program.cs",
+              "RelativeToolTip": "ClasePractica2-AeroCheck\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:34:43.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

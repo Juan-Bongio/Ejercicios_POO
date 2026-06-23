@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-grimoriom\u00E1gico\\clasepractica-grimoriom\u00E1gico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|solutionrelative:clasepractica-grimoriom\u00E1gico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-grimoriom\u00E1gico\\clasepractica-grimoriom\u00E1gico\\escudohielo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|solutionrelative:clasepractica-grimoriom\u00E1gico\\escudohielo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-grimoriom\u00E1gico\\clasepractica-grimoriom\u00E1gico\\bolafuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|solutionrelative:clasepractica-grimoriom\u00E1gico\\bolafuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-grimoriom\u00E1gico\\clasepractica-grimoriom\u00E1gico\\hechizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB10455-0D78-464E-95F1-5423186D4685}|ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico.csproj|solutionrelative:clasepractica-grimoriom\u00E1gico\\hechizo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscudoHielo.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\EscudoHielo.cs",
+              "RelativeDocumentMoniker": "ClasePractica-GrimorioM\u00E1gico\\EscudoHielo.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\EscudoHielo.cs",
+              "RelativeToolTip": "ClasePractica-GrimorioM\u00E1gico\\EscudoHielo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:27:20.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BolaFuego.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\BolaFuego.cs",
+              "RelativeDocumentMoniker": "ClasePractica-GrimorioM\u00E1gico\\BolaFuego.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\BolaFuego.cs",
+              "RelativeToolTip": "ClasePractica-GrimorioM\u00E1gico\\BolaFuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:27:09.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hechizo.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\Hechizo.cs",
+              "RelativeDocumentMoniker": "ClasePractica-GrimorioM\u00E1gico\\Hechizo.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\Hechizo.cs",
+              "RelativeToolTip": "ClasePractica-GrimorioM\u00E1gico\\Hechizo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:27:00.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica-GrimorioM\u00E1gico\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-GrimorioM\u00E1gico\\ClasePractica-GrimorioM\u00E1gico\\Program.cs",
+              "RelativeToolTip": "ClasePractica-GrimorioM\u00E1gico\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:26:40.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

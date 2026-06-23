@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\bin\Debug\net8.0\ClasePractica-CitadelDefense.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\bin\Debug\net8.0\ClasePractica-CitadelDefense.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\bin\Debug\net8.0\ClasePractica-CitadelDefense.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\bin\Debug\net8.0\ClasePractica-CitadelDefense.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\bin\Debug\net8.0\ClasePractica-CitadelDefense.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\refint\ClasePractica-CitadelDefense.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ClasePractica-CitadelDefense.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CitadelDefense\ClasePractica-CitadelDefense\obj\Debug\net8.0\ref\ClasePractica-CitadelDefense.dll

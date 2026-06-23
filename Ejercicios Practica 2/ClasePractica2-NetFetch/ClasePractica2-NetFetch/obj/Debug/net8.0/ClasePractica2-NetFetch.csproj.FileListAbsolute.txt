@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\bin\Debug\net8.0\ClasePractica2-NetFetch.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\bin\Debug\net8.0\ClasePractica2-NetFetch.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\bin\Debug\net8.0\ClasePractica2-NetFetch.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\bin\Debug\net8.0\ClasePractica2-NetFetch.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\bin\Debug\net8.0\ClasePractica2-NetFetch.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\refint\ClasePractica2-NetFetch.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ClasePractica2-NetFetch.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-NetFetch\ClasePractica2-NetFetch\obj\Debug\net8.0\ref\ClasePractica2-NetFetch.dll

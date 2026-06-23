@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\bin\Debug\net8.0\ClasePractica-SmartHome.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\bin\Debug\net8.0\ClasePractica-SmartHome.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\bin\Debug\net8.0\ClasePractica-SmartHome.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\bin\Debug\net8.0\ClasePractica-SmartHome.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\bin\Debug\net8.0\ClasePractica-SmartHome.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\refint\ClasePractica-SmartHome.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ClasePractica-SmartHome.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-SmartHome\ClasePractica-SmartHome\obj\Debug\net8.0\ref\ClasePractica-SmartHome.dll

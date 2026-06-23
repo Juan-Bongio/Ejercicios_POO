@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\bin\Debug\net8.0\ClasePractica2-SmartToll.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\bin\Debug\net8.0\ClasePractica2-SmartToll.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\bin\Debug\net8.0\ClasePractica2-SmartToll.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\bin\Debug\net8.0\ClasePractica2-SmartToll.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\bin\Debug\net8.0\ClasePractica2-SmartToll.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\refint\ClasePractica2-SmartToll.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ClasePractica2-SmartToll.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SmartToll\ClasePractica2-SmartToll\obj\Debug\net8.0\ref\ClasePractica2-SmartToll.dll

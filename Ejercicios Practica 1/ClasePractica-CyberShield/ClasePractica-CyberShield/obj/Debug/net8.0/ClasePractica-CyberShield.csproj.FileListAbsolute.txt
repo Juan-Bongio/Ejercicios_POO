@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\bin\Debug\net8.0\ClasePractica-CyberShield.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\bin\Debug\net8.0\ClasePractica-CyberShield.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\bin\Debug\net8.0\ClasePractica-CyberShield.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\bin\Debug\net8.0\ClasePractica-CyberShield.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\bin\Debug\net8.0\ClasePractica-CyberShield.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\refint\ClasePractica-CyberShield.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ClasePractica-CyberShield.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-CyberShield\ClasePractica-CyberShield\obj\Debug\net8.0\ref\ClasePractica-CyberShield.dll

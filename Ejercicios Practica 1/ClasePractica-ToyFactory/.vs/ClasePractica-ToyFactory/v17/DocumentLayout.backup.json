@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-toyfactory\\clasepractica-toyfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|solutionrelative:clasepractica-toyfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-toyfactory\\clasepractica-toyfactory\\autocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|solutionrelative:clasepractica-toyfactory\\autocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-toyfactory\\clasepractica-toyfactory\\mu\u00F1eca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|solutionrelative:clasepractica-toyfactory\\mu\u00F1eca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-toyfactory\\clasepractica-toyfactory\\juguete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10438EF-0FE1-4646-9111-73189FCD885F}|ClasePractica-ToyFactory\\ClasePractica-ToyFactory.csproj|solutionrelative:clasepractica-toyfactory\\juguete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoControl.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\AutoControl.cs",
+              "RelativeDocumentMoniker": "ClasePractica-ToyFactory\\AutoControl.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\AutoControl.cs",
+              "RelativeToolTip": "ClasePractica-ToyFactory\\AutoControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:21:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mu\u00F1eca.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Mu\u00F1eca.cs",
+              "RelativeDocumentMoniker": "ClasePractica-ToyFactory\\Mu\u00F1eca.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Mu\u00F1eca.cs",
+              "RelativeToolTip": "ClasePractica-ToyFactory\\Mu\u00F1eca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:20:45.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Juguete.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Juguete.cs",
+              "RelativeDocumentMoniker": "ClasePractica-ToyFactory\\Juguete.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Juguete.cs",
+              "RelativeToolTip": "ClasePractica-ToyFactory\\Juguete.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:20:36.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica-ToyFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-ToyFactory\\ClasePractica-ToyFactory\\Program.cs",
+              "RelativeToolTip": "ClasePractica-ToyFactory\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:20:19.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

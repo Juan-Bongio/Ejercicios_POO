@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\bin\Debug\net8.0\ClasePractica2-SecureBank.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\bin\Debug\net8.0\ClasePractica2-SecureBank.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\bin\Debug\net8.0\ClasePractica2-SecureBank.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\bin\Debug\net8.0\ClasePractica2-SecureBank.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\bin\Debug\net8.0\ClasePractica2-SecureBank.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\refint\ClasePractica2-SecureBank.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ClasePractica2-SecureBank.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-SecureBank\ClasePractica2-SecureBank\obj\Debug\net8.0\ref\ClasePractica2-SecureBank.dll
