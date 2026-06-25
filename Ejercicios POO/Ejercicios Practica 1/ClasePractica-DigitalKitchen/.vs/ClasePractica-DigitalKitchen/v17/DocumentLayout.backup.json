@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-digitalkitchen\\clasepractica-digitalkitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|solutionrelative:clasepractica-digitalkitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-digitalkitchen\\clasepractica-digitalkitchen\\ensalada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|solutionrelative:clasepractica-digitalkitchen\\ensalada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-digitalkitchen\\clasepractica-digitalkitchen\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|solutionrelative:clasepractica-digitalkitchen\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-digitalkitchen\\clasepractica-digitalkitchen\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1800FE18-5C38-4472-B442-60024AE1F304}|ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen.csproj|solutionrelative:clasepractica-digitalkitchen\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ensalada.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Ensalada.cs",
+              "RelativeDocumentMoniker": "ClasePractica-DigitalKitchen\\Ensalada.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Ensalada.cs",
+              "RelativeToolTip": "ClasePractica-DigitalKitchen\\Ensalada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:11:27.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Pizza.cs",
+              "RelativeDocumentMoniker": "ClasePractica-DigitalKitchen\\Pizza.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Pizza.cs",
+              "RelativeToolTip": "ClasePractica-DigitalKitchen\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:11:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Plato.cs",
+              "RelativeDocumentMoniker": "ClasePractica-DigitalKitchen\\Plato.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Plato.cs",
+              "RelativeToolTip": "ClasePractica-DigitalKitchen\\Plato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:10:57.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica-DigitalKitchen\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-DigitalKitchen\\ClasePractica-DigitalKitchen\\Program.cs",
+              "RelativeToolTip": "ClasePractica-DigitalKitchen\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:10:30.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

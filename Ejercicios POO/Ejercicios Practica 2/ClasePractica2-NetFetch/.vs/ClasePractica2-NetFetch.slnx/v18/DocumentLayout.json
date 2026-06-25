@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-netfetch\\clasepractica2-netfetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|solutionrelative:clasepractica2-netfetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-netfetch\\clasepractica2-netfetch\\archivocomprimido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|solutionrelative:clasepractica2-netfetch\\archivocomprimido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-netfetch\\clasepractica2-netfetch\\streamingvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|solutionrelative:clasepractica2-netfetch\\streamingvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-netfetch\\clasepractica2-netfetch\\descarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72D09A-AE73-A50F-1080-609C3D733E9F}|ClasePractica2-NetFetch\\ClasePractica2-NetFetch.csproj|solutionrelative:clasepractica2-netfetch\\descarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivoComprimido.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\ArchivoComprimido.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-NetFetch\\ArchivoComprimido.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\ArchivoComprimido.cs",
+              "RelativeToolTip": "ClasePractica2-NetFetch\\ArchivoComprimido.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:42:40.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StreamingVideo.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\StreamingVideo.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-NetFetch\\StreamingVideo.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\StreamingVideo.cs",
+              "RelativeToolTip": "ClasePractica2-NetFetch\\StreamingVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:42:31.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Descarga.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\Descarga.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-NetFetch\\Descarga.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\Descarga.cs",
+              "RelativeToolTip": "ClasePractica2-NetFetch\\Descarga.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:42:21.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-NetFetch\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-NetFetch\\ClasePractica2-NetFetch\\Program.cs",
+              "RelativeToolTip": "ClasePractica2-NetFetch\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:39:41.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

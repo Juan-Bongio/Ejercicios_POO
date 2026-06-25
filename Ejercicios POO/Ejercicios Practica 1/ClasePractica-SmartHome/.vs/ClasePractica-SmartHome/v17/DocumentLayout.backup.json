@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-smarthome\\clasepractica-smarthome\\lamparainteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|solutionrelative:clasepractica-smarthome\\lamparainteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-smarthome\\clasepractica-smarthome\\aspiradorarobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|solutionrelative:clasepractica-smarthome\\aspiradorarobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-smarthome\\clasepractica-smarthome\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|solutionrelative:clasepractica-smarthome\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-smarthome\\clasepractica-smarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBFB9A2-6339-43CC-A98A-C4437D28A805}|ClasePractica-SmartHome\\ClasePractica-SmartHome.csproj|solutionrelative:clasepractica-smarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LamparaInteligente.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\LamparaInteligente.cs",
+              "RelativeDocumentMoniker": "ClasePractica-SmartHome\\LamparaInteligente.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\LamparaInteligente.cs",
+              "RelativeToolTip": "ClasePractica-SmartHome\\LamparaInteligente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:09:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AspiradoraRobot.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\AspiradoraRobot.cs",
+              "RelativeDocumentMoniker": "ClasePractica-SmartHome\\AspiradoraRobot.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\AspiradoraRobot.cs",
+              "RelativeToolTip": "ClasePractica-SmartHome\\AspiradoraRobot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:08:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "ClasePractica-SmartHome\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\Dispositivo.cs",
+              "RelativeToolTip": "ClasePractica-SmartHome\\Dispositivo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:08:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica-SmartHome\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-SmartHome\\ClasePractica-SmartHome\\Program.cs",
+              "RelativeToolTip": "ClasePractica-SmartHome\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:08:06.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

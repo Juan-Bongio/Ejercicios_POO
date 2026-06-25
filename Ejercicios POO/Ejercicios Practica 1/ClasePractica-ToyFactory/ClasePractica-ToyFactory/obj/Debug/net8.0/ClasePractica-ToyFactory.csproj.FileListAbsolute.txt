@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\bin\Debug\net8.0\ClasePractica-ToyFactory.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\bin\Debug\net8.0\ClasePractica-ToyFactory.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\bin\Debug\net8.0\ClasePractica-ToyFactory.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\bin\Debug\net8.0\ClasePractica-ToyFactory.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\bin\Debug\net8.0\ClasePractica-ToyFactory.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\refint\ClasePractica-ToyFactory.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ClasePractica-ToyFactory.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-ToyFactory\ClasePractica-ToyFactory\obj\Debug\net8.0\ref\ClasePractica-ToyFactory.dll

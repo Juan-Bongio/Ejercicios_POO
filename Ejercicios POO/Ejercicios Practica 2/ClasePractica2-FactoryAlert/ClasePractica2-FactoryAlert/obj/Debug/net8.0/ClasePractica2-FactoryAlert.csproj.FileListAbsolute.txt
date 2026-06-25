@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\bin\Debug\net8.0\ClasePractica2-FactoryAlert.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\bin\Debug\net8.0\ClasePractica2-FactoryAlert.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\bin\Debug\net8.0\ClasePractica2-FactoryAlert.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\bin\Debug\net8.0\ClasePractica2-FactoryAlert.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\bin\Debug\net8.0\ClasePractica2-FactoryAlert.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\refint\ClasePractica2-FactoryAlert.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ClasePractica2-FactoryAlert.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-FactoryAlert\ClasePractica2-FactoryAlert\obj\Debug\net8.0\ref\ClasePractica2-FactoryAlert.dll

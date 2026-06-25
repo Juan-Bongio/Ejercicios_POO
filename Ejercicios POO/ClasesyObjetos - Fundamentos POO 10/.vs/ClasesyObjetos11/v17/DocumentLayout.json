@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F65CA30-2453-4D63-88DB-9685C46D0976}|ClasesyObjetos11\\ClasesyObjetos11.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos11\\clasesyobjetos11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F65CA30-2453-4D63-88DB-9685C46D0976}|ClasesyObjetos11\\ClasesyObjetos11.csproj|solutionrelative:clasesyobjetos11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F65CA30-2453-4D63-88DB-9685C46D0976}|ClasesyObjetos11\\ClasesyObjetos11.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos11\\clasesyobjetos11\\promedio_escolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F65CA30-2453-4D63-88DB-9685C46D0976}|ClasesyObjetos11\\ClasesyObjetos11.csproj|solutionrelative:clasesyobjetos11\\promedio_escolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Promedio_Escolar.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos11\\ClasesyObjetos11\\Promedio_Escolar.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos11\\Promedio_Escolar.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos11\\ClasesyObjetos11\\Promedio_Escolar.cs",
+              "RelativeToolTip": "ClasesyObjetos11\\Promedio_Escolar.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:42:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos11\\ClasesyObjetos11\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos11\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos11\\ClasesyObjetos11\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:41:53.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

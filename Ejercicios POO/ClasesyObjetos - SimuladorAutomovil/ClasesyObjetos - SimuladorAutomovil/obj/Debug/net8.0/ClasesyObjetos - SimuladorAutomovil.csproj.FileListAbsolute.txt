@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\bin\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.exe
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\bin\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.deps.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\bin\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.runtimeconfig.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\bin\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\bin\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\refint\ClasesyObjetos - SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ClasesyObjetos - SimuladorAutomovil.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - SimuladorAutomovil\ClasesyObjetos - SimuladorAutomovil\obj\Debug\net8.0\ref\ClasesyObjetos - SimuladorAutomovil.dll

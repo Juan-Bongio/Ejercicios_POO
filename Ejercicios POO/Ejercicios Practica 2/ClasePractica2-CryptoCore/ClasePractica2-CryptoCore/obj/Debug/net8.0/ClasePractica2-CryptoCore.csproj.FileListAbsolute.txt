@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\bin\Debug\net8.0\ClasePractica2-CryptoCore.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\bin\Debug\net8.0\ClasePractica2-CryptoCore.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\bin\Debug\net8.0\ClasePractica2-CryptoCore.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\bin\Debug\net8.0\ClasePractica2-CryptoCore.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\bin\Debug\net8.0\ClasePractica2-CryptoCore.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\refint\ClasePractica2-CryptoCore.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ClasePractica2-CryptoCore.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-CryptoCore\ClasePractica2-CryptoCore\obj\Debug\net8.0\ref\ClasePractica2-CryptoCore.dll

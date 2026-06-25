@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8915BF-88D9-47DD-8BF9-2A61AFFF37A1}|ClasesyObjetos10\\ClasesyObjetos10.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos10\\clasesyobjetos10\\cafetera_automatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8915BF-88D9-47DD-8BF9-2A61AFFF37A1}|ClasesyObjetos10\\ClasesyObjetos10.csproj|solutionrelative:clasesyobjetos10\\cafetera_automatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8915BF-88D9-47DD-8BF9-2A61AFFF37A1}|ClasesyObjetos10\\ClasesyObjetos10.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos10\\clasesyobjetos10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8915BF-88D9-47DD-8BF9-2A61AFFF37A1}|ClasesyObjetos10\\ClasesyObjetos10.csproj|solutionrelative:clasesyobjetos10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cafetera_Automatica.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos10\\ClasesyObjetos10\\Cafetera_Automatica.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos10\\Cafetera_Automatica.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos10\\ClasesyObjetos10\\Cafetera_Automatica.cs",
+              "RelativeToolTip": "ClasesyObjetos10\\Cafetera_Automatica.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:40:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos10\\ClasesyObjetos10\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos10\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos10\\ClasesyObjetos10\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:39:42.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

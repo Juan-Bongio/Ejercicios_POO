@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\bin\Debug\net10.0\GestionDeCreditos.exe
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\bin\Debug\net10.0\GestionDeCreditos.deps.json
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\bin\Debug\net10.0\GestionDeCreditos.runtimeconfig.json
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\bin\Debug\net10.0\GestionDeCreditos.dll
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\bin\Debug\net10.0\GestionDeCreditos.pdb
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.dll
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\refint\GestionDeCreditos.dll
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.pdb
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\GestionDeCreditos.genruntimeconfig.cache
+C:\Users\usuario\source\repos\GestionDeCreditos\GestionDeCreditos\obj\Debug\net10.0\ref\GestionDeCreditos.dll

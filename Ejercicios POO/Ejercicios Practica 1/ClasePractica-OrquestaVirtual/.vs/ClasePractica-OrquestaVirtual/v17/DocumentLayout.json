@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-orquestavirtual\\clasepractica-orquestavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|solutionrelative:clasepractica-orquestavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-orquestavirtual\\clasepractica-orquestavirtual\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|solutionrelative:clasepractica-orquestavirtual\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-orquestavirtual\\clasepractica-orquestavirtual\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|solutionrelative:clasepractica-orquestavirtual\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|c:\\users\\pc-1\\source\\repos\\ejercicios practica\\clasepractica-orquestavirtual\\clasepractica-orquestavirtual\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DFFAA-1C00-449E-BAFD-6B205E93B016}|ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual.csproj|solutionrelative:clasepractica-orquestavirtual\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Piano.cs",
+              "RelativeDocumentMoniker": "ClasePractica-OrquestaVirtual\\Piano.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Piano.cs",
+              "RelativeToolTip": "ClasePractica-OrquestaVirtual\\Piano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:05:45.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guitarra.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Guitarra.cs",
+              "RelativeDocumentMoniker": "ClasePractica-OrquestaVirtual\\Guitarra.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Guitarra.cs",
+              "RelativeToolTip": "ClasePractica-OrquestaVirtual\\Guitarra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:05:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Instrumento.cs",
+              "RelativeDocumentMoniker": "ClasePractica-OrquestaVirtual\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Instrumento.cs",
+              "RelativeToolTip": "ClasePractica-OrquestaVirtual\\Instrumento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:05:24.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica-OrquestaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\Ejercicios Practica\\ClasePractica-OrquestaVirtual\\ClasePractica-OrquestaVirtual\\Program.cs",
+              "RelativeToolTip": "ClasePractica-OrquestaVirtual\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:05:09.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

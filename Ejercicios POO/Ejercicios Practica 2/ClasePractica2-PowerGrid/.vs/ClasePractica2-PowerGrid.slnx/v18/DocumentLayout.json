@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-powergrid\\clasepractica2-powergrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|solutionrelative:clasepractica2-powergrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-powergrid\\clasepractica2-powergrid\\baterialitio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|solutionrelative:clasepractica2-powergrid\\baterialitio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-powergrid\\clasepractica2-powergrid\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|solutionrelative:clasepractica2-powergrid\\bateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-powergrid\\clasepractica2-powergrid\\bateriasolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FBAA8-B17C-4431-886A-0F70724C88EF}|ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid.csproj|solutionrelative:clasepractica2-powergrid\\bateriasolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BateriaSolar.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\BateriaSolar.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-PowerGrid\\BateriaSolar.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\BateriaSolar.cs",
+              "RelativeToolTip": "ClasePractica2-PowerGrid\\BateriaSolar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:18:42.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BateriaLitio.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\BateriaLitio.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-PowerGrid\\BateriaLitio.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\BateriaLitio.cs",
+              "RelativeToolTip": "ClasePractica2-PowerGrid\\BateriaLitio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:18:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bateria.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\Bateria.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-PowerGrid\\Bateria.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\Bateria.cs",
+              "RelativeToolTip": "ClasePractica2-PowerGrid\\Bateria.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:18:21.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-PowerGrid\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-PowerGrid\\ClasePractica2-PowerGrid\\Program.cs",
+              "RelativeToolTip": "ClasePractica2-PowerGrid\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T20:18:11.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

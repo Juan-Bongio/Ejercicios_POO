@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\bin\Debug\net8.0\ClasePractica-DigitalKitchen.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\bin\Debug\net8.0\ClasePractica-DigitalKitchen.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\bin\Debug\net8.0\ClasePractica-DigitalKitchen.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\bin\Debug\net8.0\ClasePractica-DigitalKitchen.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\bin\Debug\net8.0\ClasePractica-DigitalKitchen.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\refint\ClasePractica-DigitalKitchen.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ClasePractica-DigitalKitchen.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-DigitalKitchen\ClasePractica-DigitalKitchen\obj\Debug\net8.0\ref\ClasePractica-DigitalKitchen.dll

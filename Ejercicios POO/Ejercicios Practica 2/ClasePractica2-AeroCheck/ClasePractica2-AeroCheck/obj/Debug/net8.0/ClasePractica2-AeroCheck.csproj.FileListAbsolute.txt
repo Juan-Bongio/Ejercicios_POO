@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\bin\Debug\net8.0\ClasePractica2-AeroCheck.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\bin\Debug\net8.0\ClasePractica2-AeroCheck.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\bin\Debug\net8.0\ClasePractica2-AeroCheck.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\bin\Debug\net8.0\ClasePractica2-AeroCheck.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\bin\Debug\net8.0\ClasePractica2-AeroCheck.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\refint\ClasePractica2-AeroCheck.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ClasePractica2-AeroCheck.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-AeroCheck\ClasePractica2-AeroCheck\obj\Debug\net8.0\ref\ClasePractica2-AeroCheck.dll
