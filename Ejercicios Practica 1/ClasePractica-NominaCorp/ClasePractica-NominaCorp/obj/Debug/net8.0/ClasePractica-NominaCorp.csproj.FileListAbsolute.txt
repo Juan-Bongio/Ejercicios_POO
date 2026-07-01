@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\bin\Debug\net8.0\ClasePractica-NominaCorp.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\bin\Debug\net8.0\ClasePractica-NominaCorp.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\bin\Debug\net8.0\ClasePractica-NominaCorp.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\bin\Debug\net8.0\ClasePractica-NominaCorp.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\bin\Debug\net8.0\ClasePractica-NominaCorp.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\refint\ClasePractica-NominaCorp.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ClasePractica-NominaCorp.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-NominaCorp\ClasePractica-NominaCorp\obj\Debug\net8.0\ref\ClasePractica-NominaCorp.dll

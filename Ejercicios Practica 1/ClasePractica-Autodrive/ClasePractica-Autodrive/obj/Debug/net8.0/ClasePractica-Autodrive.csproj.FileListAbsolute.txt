@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\bin\Debug\net8.0\ClasePractica-Autodrive.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\bin\Debug\net8.0\ClasePractica-Autodrive.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\bin\Debug\net8.0\ClasePractica-Autodrive.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\bin\Debug\net8.0\ClasePractica-Autodrive.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\bin\Debug\net8.0\ClasePractica-Autodrive.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\refint\ClasePractica-Autodrive.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ClasePractica-Autodrive.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-Autodrive\ClasePractica-Autodrive\obj\Debug\net8.0\ref\ClasePractica-Autodrive.dll

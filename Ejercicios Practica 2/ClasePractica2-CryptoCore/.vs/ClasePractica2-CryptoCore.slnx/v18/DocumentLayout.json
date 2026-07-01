@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-cryptocore\\clasepractica2-cryptocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|solutionrelative:clasepractica2-cryptocore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-cryptocore\\clasepractica2-cryptocore\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|solutionrelative:clasepractica2-cryptocore\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-cryptocore\\clasepractica2-cryptocore\\cifradodesplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|solutionrelative:clasepractica2-cryptocore\\cifradodesplazamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|c:\\users\\usuario\\source\\repos\\ejercicios practica 2\\clasepractica2-cryptocore\\clasepractica2-cryptocore\\cifradoinvertido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501DCFB9-EAA9-444E-845E-DD251AA64830}|ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore.csproj|solutionrelative:clasepractica2-cryptocore\\cifradoinvertido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CifradoDesplazamiento.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\CifradoDesplazamiento.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-CryptoCore\\CifradoDesplazamiento.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\CifradoDesplazamiento.cs",
+              "RelativeToolTip": "ClasePractica2-CryptoCore\\CifradoDesplazamiento.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:22:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CifradoInvertido.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\CifradoInvertido.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-CryptoCore\\CifradoInvertido.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\CifradoInvertido.cs",
+              "RelativeToolTip": "ClasePractica2-CryptoCore\\CifradoInvertido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:22:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\Mensaje.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-CryptoCore\\Mensaje.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\Mensaje.cs",
+              "RelativeToolTip": "ClasePractica2-CryptoCore\\Mensaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:22:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\Program.cs",
+              "RelativeDocumentMoniker": "ClasePractica2-CryptoCore\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Ejercicios Practica 2\\ClasePractica2-CryptoCore\\ClasePractica2-CryptoCore\\Program.cs",
+              "RelativeToolTip": "ClasePractica2-CryptoCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:22:07.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

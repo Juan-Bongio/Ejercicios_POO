@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\bin\Debug\net8.0\ClasesyObjetos - MicroondasDigital.exe
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\bin\Debug\net8.0\ClasesyObjetos - MicroondasDigital.deps.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\bin\Debug\net8.0\ClasesyObjetos - MicroondasDigital.runtimeconfig.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\bin\Debug\net8.0\ClasesyObjetos - MicroondasDigital.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\bin\Debug\net8.0\ClasesyObjetos - MicroondasDigital.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\refint\ClasesyObjetos - MicroondasDigital.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ClasesyObjetos - MicroondasDigital.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - MicroondasDigital\ClasesyObjetos - MicroondasDigital\obj\Debug\net8.0\ref\ClasesyObjetos - MicroondasDigital.dll

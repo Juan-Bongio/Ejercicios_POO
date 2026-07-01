@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Downloads\\ClasesyObjetos - SimuladorTV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA3389-01BC-42B8-A447-8694D109AABA}|ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV.csproj|c:\\users\\usuario\\downloads\\clasesyobjetos - simuladortv\\clasesyobjetos - simuladortv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA3389-01BC-42B8-A447-8694D109AABA}|ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV.csproj|solutionrelative:clasesyobjetos - simuladortv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA3389-01BC-42B8-A447-8694D109AABA}|ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV.csproj|c:\\users\\usuario\\downloads\\clasesyobjetos - simuladortv\\clasesyobjetos - simuladortv\\smart_tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA3389-01BC-42B8-A447-8694D109AABA}|ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV.csproj|solutionrelative:clasesyobjetos - simuladortv\\smart_tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smart_Tv.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV\\Smart_Tv.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - SimuladorTV\\Smart_Tv.cs",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV\\Smart_Tv.cs",
+              "RelativeToolTip": "ClasesyObjetos - SimuladorTV\\Smart_Tv.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAUwPIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:08:16.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - SimuladorTV\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\ClasesyObjetos - SimuladorTV\\ClasesyObjetos - SimuladorTV\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos - SimuladorTV\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T19:08:16.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

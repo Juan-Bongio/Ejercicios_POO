@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClasePractica2-MediaStream/1.0.0": {
+        "runtime": {
+          "ClasePractica2-MediaStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasePractica2-MediaStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

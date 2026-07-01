@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - InvernaderoInteligente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E521E84B-8472-4CF7-8F61-75C8B7F1EC68}|ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - invernaderointeligente\\clasesyobjetos - invernaderointeligente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E521E84B-8472-4CF7-8F61-75C8B7F1EC68}|ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente.csproj|solutionrelative:clasesyobjetos - invernaderointeligente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E521E84B-8472-4CF7-8F61-75C8B7F1EC68}|ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - invernaderointeligente\\clasesyobjetos - invernaderointeligente\\invernadero_inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E521E84B-8472-4CF7-8F61-75C8B7F1EC68}|ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente.csproj|solutionrelative:clasesyobjetos - invernaderointeligente\\invernadero_inteligente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invernadero_Inteligente.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente\\Invernadero_Inteligente.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - InvernaderoInteligente\\Invernadero_Inteligente.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente\\Invernadero_Inteligente.cs",
+              "RelativeToolTip": "ClasesyObjetos - InvernaderoInteligente\\Invernadero_Inteligente.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T00:41:24.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - InvernaderoInteligente\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - InvernaderoInteligente\\ClasesyObjetos - InvernaderoInteligente\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos - InvernaderoInteligente\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T00:40:51.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

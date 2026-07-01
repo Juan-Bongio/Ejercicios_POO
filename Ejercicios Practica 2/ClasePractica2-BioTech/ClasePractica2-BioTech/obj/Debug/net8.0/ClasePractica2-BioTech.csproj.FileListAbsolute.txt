@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\bin\Debug\net8.0\ClasePractica2-BioTech.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\bin\Debug\net8.0\ClasePractica2-BioTech.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\bin\Debug\net8.0\ClasePractica2-BioTech.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\bin\Debug\net8.0\ClasePractica2-BioTech.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\bin\Debug\net8.0\ClasePractica2-BioTech.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\refint\ClasePractica2-BioTech.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ClasePractica2-BioTech.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-BioTech\ClasePractica2-BioTech\obj\Debug\net8.0\ref\ClasePractica2-BioTech.dll

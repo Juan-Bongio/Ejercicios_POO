@@ -1,0 +1,14 @@
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\bin\Debug\net8.0\ClasesyObjetos - SimuladorTV.exe
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\bin\Debug\net8.0\ClasesyObjetos - SimuladorTV.deps.json
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\bin\Debug\net8.0\ClasesyObjetos - SimuladorTV.runtimeconfig.json
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\bin\Debug\net8.0\ClasesyObjetos - SimuladorTV.dll
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\bin\Debug\net8.0\ClasesyObjetos - SimuladorTV.pdb
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.AssemblyInfo.cs
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.dll
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\refint\ClasesyObjetos - SimuladorTV.dll
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.pdb
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ClasesyObjetos - SimuladorTV.genruntimeconfig.cache
+C:\Users\usuario\Downloads\ClasesyObjetos - SimuladorTV\ClasesyObjetos - SimuladorTV\obj\Debug\net8.0\ref\ClasesyObjetos - SimuladorTV.dll

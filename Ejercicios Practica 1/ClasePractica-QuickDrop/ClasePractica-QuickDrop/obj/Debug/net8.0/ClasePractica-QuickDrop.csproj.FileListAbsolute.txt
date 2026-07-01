@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\bin\Debug\net8.0\ClasePractica-QuickDrop.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\bin\Debug\net8.0\ClasePractica-QuickDrop.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\bin\Debug\net8.0\ClasePractica-QuickDrop.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\bin\Debug\net8.0\ClasePractica-QuickDrop.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\bin\Debug\net8.0\ClasePractica-QuickDrop.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\refint\ClasePractica-QuickDrop.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ClasePractica-QuickDrop.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-QuickDrop\ClasePractica-QuickDrop\obj\Debug\net8.0\ref\ClasePractica-QuickDrop.dll

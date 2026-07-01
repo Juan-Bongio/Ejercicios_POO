@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\bin\Debug\net8.0\ClasePractica2-MediaStream.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\bin\Debug\net8.0\ClasePractica2-MediaStream.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\bin\Debug\net8.0\ClasePractica2-MediaStream.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\bin\Debug\net8.0\ClasePractica2-MediaStream.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\bin\Debug\net8.0\ClasePractica2-MediaStream.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\refint\ClasePractica2-MediaStream.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ClasePractica2-MediaStream.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MediaStream\ClasePractica2-MediaStream\obj\Debug\net8.0\ref\ClasePractica2-MediaStream.dll

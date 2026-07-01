@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39209FC6-B5F9-4ACA-8463-F43C65221921}|ClasesyObjetos3\\ClasesyObjetos3.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos3\\clasesyobjetos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39209FC6-B5F9-4ACA-8463-F43C65221921}|ClasesyObjetos3\\ClasesyObjetos3.csproj|solutionrelative:clasesyobjetos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39209FC6-B5F9-4ACA-8463-F43C65221921}|ClasesyObjetos3\\ClasesyObjetos3.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos3\\clasesyobjetos3\\reloj_digital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39209FC6-B5F9-4ACA-8463-F43C65221921}|ClasesyObjetos3\\ClasesyObjetos3.csproj|solutionrelative:clasesyobjetos3\\reloj_digital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reloj_Digital.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos3\\ClasesyObjetos3\\Reloj_Digital.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos3\\Reloj_Digital.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos3\\ClasesyObjetos3\\Reloj_Digital.cs",
+              "RelativeToolTip": "ClasesyObjetos3\\Reloj_Digital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:35:16.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos3\\ClasesyObjetos3\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos3\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos3\\ClasesyObjetos3\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:34:42.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

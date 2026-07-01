@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\bin\Debug\net8.0\ClasePractica-OrquestaVirtual.exe
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\bin\Debug\net8.0\ClasePractica-OrquestaVirtual.deps.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\bin\Debug\net8.0\ClasePractica-OrquestaVirtual.runtimeconfig.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\bin\Debug\net8.0\ClasePractica-OrquestaVirtual.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\bin\Debug\net8.0\ClasePractica-OrquestaVirtual.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.sourcelink.json
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\refint\ClasePractica-OrquestaVirtual.dll
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.pdb
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ClasePractica-OrquestaVirtual.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\Ejercicios Practica\ClasePractica-OrquestaVirtual\ClasePractica-OrquestaVirtual\obj\Debug\net8.0\ref\ClasePractica-OrquestaVirtual.dll

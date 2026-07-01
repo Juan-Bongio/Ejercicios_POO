@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\bin\Debug\net8.0\ClasePractica2-MarketCraft.exe
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\bin\Debug\net8.0\ClasePractica2-MarketCraft.deps.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\bin\Debug\net8.0\ClasePractica2-MarketCraft.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\bin\Debug\net8.0\ClasePractica2-MarketCraft.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\bin\Debug\net8.0\ClasePractica2-MarketCraft.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.sourcelink.json
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\refint\ClasePractica2-MarketCraft.dll
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.pdb
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ClasePractica2-MarketCraft.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Ejercicios Practica 2\ClasePractica2-MarketCraft\ClasePractica2-MarketCraft\obj\Debug\net8.0\ref\ClasePractica2-MarketCraft.dll

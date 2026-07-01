@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\bin\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.exe
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\bin\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.deps.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\bin\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.runtimeconfig.json
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\bin\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\bin\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\refint\ClasesyObjetos - BateriaSmartphone.dll
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.pdb
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ClasesyObjetos - BateriaSmartphone.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\ClasesyObjetos - BateriaSmartphone\ClasesyObjetos - BateriaSmartphone\obj\Debug\net8.0\ref\ClasesyObjetos - BateriaSmartphone.dll

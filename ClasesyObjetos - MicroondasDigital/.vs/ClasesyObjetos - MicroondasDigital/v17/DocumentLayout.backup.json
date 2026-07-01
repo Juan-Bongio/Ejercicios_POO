@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - MicroondasDigital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F47C0B02-5D31-4974-9E68-447026DF5AE3}|ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - microondasdigital\\clasesyobjetos - microondasdigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47C0B02-5D31-4974-9E68-447026DF5AE3}|ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital.csproj|solutionrelative:clasesyobjetos - microondasdigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47C0B02-5D31-4974-9E68-447026DF5AE3}|ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital.csproj|c:\\users\\pc-1\\source\\repos\\clasesyobjetos - microondasdigital\\clasesyobjetos - microondasdigital\\microondas_digital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47C0B02-5D31-4974-9E68-447026DF5AE3}|ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital.csproj|solutionrelative:clasesyobjetos - microondasdigital\\microondas_digital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microondas_Digital.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital\\Microondas_Digital.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - MicroondasDigital\\Microondas_Digital.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital\\Microondas_Digital.cs",
+              "RelativeToolTip": "ClasesyObjetos - MicroondasDigital\\Microondas_Digital.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T23:28:15.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesyObjetos - MicroondasDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\ClasesyObjetos - MicroondasDigital\\ClasesyObjetos - MicroondasDigital\\Program.cs",
+              "RelativeToolTip": "ClasesyObjetos - MicroondasDigital\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T23:27:49.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
