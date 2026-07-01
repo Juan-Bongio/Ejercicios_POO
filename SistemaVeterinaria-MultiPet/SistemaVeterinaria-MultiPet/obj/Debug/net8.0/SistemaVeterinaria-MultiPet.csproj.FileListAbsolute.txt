@@ -1,0 +1,14 @@
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\bin\Debug\net8.0\SistemaVeterinaria-MultiPet.exe
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\bin\Debug\net8.0\SistemaVeterinaria-MultiPet.deps.json
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\bin\Debug\net8.0\SistemaVeterinaria-MultiPet.runtimeconfig.json
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\bin\Debug\net8.0\SistemaVeterinaria-MultiPet.dll
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\bin\Debug\net8.0\SistemaVeterinaria-MultiPet.pdb
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.AssemblyInfoInputs.cache
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.AssemblyInfo.cs
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.dll
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\refint\SistemaVeterinaria-MultiPet.dll
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.pdb
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\SistemaVeterinaria-MultiPet.genruntimeconfig.cache
+C:\Users\PC-1\Downloads\SistemaVeterinaria-MultiPet\SistemaVeterinaria-MultiPet\obj\Debug\net8.0\ref\SistemaVeterinaria-MultiPet.dll

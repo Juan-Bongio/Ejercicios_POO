@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaVeterinaria-MultiPet/1.0.0": {
+        "runtime": {
+          "SistemaVeterinaria-MultiPet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaVeterinaria-MultiPet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
